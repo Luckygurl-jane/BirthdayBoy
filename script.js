@@ -340,11 +340,11 @@ function startPhotoShow() {
             image: './images/photo2.jpg'
         },
         {
-            text: 'YAUDAH KOMUK LAGI',
+            text: 'YAUDAH GA KOMUK',
             image: './images/photo3.jpg'
         },
         {
-            text: 'YAUDAH GA KOMUK',
+            text: 'ABANG MEREM',
             image: './images/photo4.jpg'
         },
         {
@@ -352,15 +352,15 @@ function startPhotoShow() {
             image: './images/photo5.jpg'
         },
         {
-            text: '😂',
+            text: 'AEHHHH😂',
             image: './images/photo6.jpg'
         },
         {
-            text: 'JENGKEL GA☀️',
+            text: 'ABANG PULANG KERJA',
             image: './images/photo7.jpg'
         },
         {
-            text: 'LU DOANG EMANG DEP💖',
+            text: 'ABANG NGANTUK',
             image: './images/photo8.jpg'
         }
     ];
