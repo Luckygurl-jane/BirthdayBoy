@@ -225,13 +225,20 @@ function startTypewriter() {
     
     const fullMessage = `Hi,
 
-Happy Birthday!
+BIRTHDAY BOY
 
-Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu percaya kalau kamu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa.
+Happy Birthday Devian Fernando Hanser !!
 
-Terima kasih udah jadi bagian hidup aku yang paling berharga. Kamu bener-bener bikin hari-hari aku jadi lebih berarti dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).
+Ga kerasa ya, another year has passed.. Semoga segala keinginan depiann tercapai, apalagi yang kocak-kocak dan gak biasa HAHAHA. Gua tau hidup ga selalu ramah sama lu. Ada hari-hari di mana lu harus kuat sendiri, pretending everything is fine, even when it’s not. Tapiiii lu tetap jalan, tetap berusaha, and that already makes you strong. Gua selalu percaya kalau lu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa walauuu sambil misuh-misuh, trus telfon ngeluh+ngerengek sambil bilang "triaaaaaaa" haha.
+Wish u all the best ya depiannnn, semoga panjang umur dannnn sehat selalu, dikelilingi orang sayang sama lu dan yang lu sayangi, semoga makin banyak kebahagiaan yang didapetin, cita-cita dan harapan yang selama ini didambakan semoga dapat tercapi ya. Pokonya semoga di umur yang baru ini, hidup lu lebih tenang, lebih jelas arahnya, and you finally get what you deserve.
 
-I love you so much! 💕`;
+Kalau suatu hari lu capek, or feel lost, remember this: Lu ga sendirian.
+Gua mungkin ga selalu bisa bantu banyak, but I’ll always be here to listen.
+Tetap jadi depian yang apa adanya—strong, kind, and real.
+
+Terima kasih udah jadi bagian hidup gueee walau baru akrab beberapa bulan. Lu menjadi salah satu manusia yang menghidupkan kembali warna kehidupan gua yang sebelumnya pudar di 2021 hmmmm. Jangan jadi tua yang menyebalkan yaa hahaha, semoga diumur sekarang makin DEWASA dan SUKSES buat impian-impiannya.
+Once again, happy birthday, Om piannnnn 🎉🎂✨🍰🥳
+Semoga langkahmu ringan, hatimu hangat, and your life feels a little better every day.`;
     
     // Clear content and start fresh
     messageContent.innerHTML = '';
@@ -266,7 +273,10 @@ function skipTypewriter() {
         clearInterval(typewriterInterval);
         const messageContent = document.querySelector('.message-content');
         if (messageContent) {
-            const fullMessage = `Hi Cel,<br><br>Happy Birthday!<br><br>Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu percaya kalau kamu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa.<br><br>Terima kasih udah jadi bagian hidup aku yang paling berharga. Kamu bener-bener bikin hari-hari aku jadi lebih berarti dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).<br><br>I love you so much! 💕`;
+            const fullMessage = `Hi Cel,<br><br>BIRTHDAY BOY<br><br>Happy Birthday Devian Fernando Hanser !!<br><br>Ga kerasa ya, another year has passed.. Semoga segala keinginan depiann tercapai, apalagi yang kocak-kocak dan gak biasa HAHAHA. Gua tau hidup ga selalu ramah sama lu. Ada hari-hari di mana lu harus kuat sendiri, pretending everything is fine, even when it’s not. Tapiiii lu tetap jalan, tetap berusaha, and that already makes you strong. Gua selalu percaya kalau lu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa walauuu sambil misuh-misuh, trus telfon ngeluh+ngerengek sambil bilang "triaaaaaaa" haha.<br><br>Wish u all the best ya depiannnn, semoga panjang umur dannnn sehat selalu, dikelilingi orang sayang sama lu dan yang lu sayangi, semoga makin banyak kebahagiaan yang didapetin, cita-cita dan harapan yang selama ini didambakan semoga dapat tercapi ya. Pokonya semoga di umur yang baru ini, hidup lu lebih tenang, lebih jelas arahnya, and you finally get what you deserve.<br><br>Kalau suatu hari lu capek, or feel lost, remember this: Lu ga sendirian.
+Gua mungkin ga selalu bisa bantu banyak, but I’ll always be here to listen.
+Tetap jadi depian yang apa adanya—strong, kind, and real.
+<br><brTerima kasih udah jadi bagian hidup gueee walau baru akrab beberapa bulan. Lu menjadi salah satu manusia yang menghidupkan kembali warna kehidupan gua yang sebelumnya pudar di 2021 hmmmm. Jangan jadi tua yang menyebalkan yaa hahaha, semoga diumur sekarang makin DEWASA dan SUKSES buat impian-impiannya.<br><br>Once again, happy birthday, Om piannnnn 🎉🎂✨🍰🥳<br><br>Semoga langkahmu ringan, hatimu hangat, and your life feels a little better every day.`;<br><br>  BIRTHDAY BOY WUHUUUUUUUU🥳`;
             messageContent.innerHTML = fullMessage;
             isTyping = false;
             messageContent.scrollTop = messageContent.scrollHeight;
@@ -322,35 +332,35 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [
         {
-            text: 'Our First Date 💕',
+            text: 'KOMUK DEPIAN',
             image: './images/photo1.jpg'
         },
         {
-            text: 'Birthday Moment 🎂',
+            text: 'ANOTHER KOMUK',
             image: './images/photo2.jpg'
         },
         {
-            text: 'Adventure Time 🌟',
+            text: 'YAUDAH KOMUK LAGI',
             image: './images/photo3.jpg'
         },
         {
-            text: 'Cozy Together ❤️',
+            text: 'YAUDAH GA KOMUK',
             image: './images/photo4.jpg'
         },
         {
-            text: 'Sweet Memories 🥰',
+            text: 'CUBANG CUBANG 🥰',
             image: './images/photo5.jpg'
         },
         {
-            text: 'Laugh Together 😂',
+            text: '😂',
             image: './images/photo6.jpg'
         },
         {
-            text: 'Perfect Day ☀️',
+            text: 'JENGKEL GA☀️',
             image: './images/photo7.jpg'
         },
         {
-            text: 'Love Forever 💖',
+            text: 'LU DOANG EMANG DEP💖',
             image: './images/photo8.jpg'
         }
     ];
@@ -378,7 +388,7 @@ function startPhotoShow() {
             <div class="photo-frames-container">
                 ${framesHTML}
             </div>
-            <div class="photo-strip-footer">💕 BIRTHDAY MEMORIES 💕</div>
+            <div class="photo-strip-footer">✨ BIRTHDAY MEMORIES ✨</div>
         </div>
         <div class="scroll-indicator">⬇ Scroll Down ⬇</div>
     `;
@@ -616,15 +626,15 @@ function loadSpotifyPlaylist(playlistNumber) {
         },
         2: {
             // Ganti dengan playlist kedua kamu
-            embedUrl: 'https://open.spotify.com/embed/playlist/3gPSenyxZMdB3A54HeEruz?si=6b4dec830d4f4a48',
-            name: 'Love Songs Collection',
-            description: 'Koleksi lagu cinta terbaik untuk kita ❤️'
+            embedUrl: 'https://open.spotify.com/playlist/3hOKqXItvoiTtFhP8TSv6O?si=soJvpzNOTZurX6e-Mwu2dQ',
+            name: 'Combo Favorite Depiannn',
+            description: 'Honestly yang bruno gatau salah gatau bener hehe'
         },
         3: {
             // Ganti dengan playlist ketiga kamu
-            embedUrl: 'https://open.spotify.com/embed/playlist/4dlQ4JHE6abxv38aae2HL1?si=95730613199e4dad',
-            name: 'Happy Memories',
-            description: 'Lagu-lagu yang mengingatkan kenangan indah 🌟'
+            embedUrl: 'https://open.spotify.com/playlist/5es6sr2HL2A8E4dP0IKU8U?si=0IdPCoqIShG1XjcZ3ZLFTA',
+            name: 'Another for u🌟',
+            description: 'Lagu ini mencerminkan lu bangetttt (huek)'
         }
     };
     
