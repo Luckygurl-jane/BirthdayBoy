@@ -230,13 +230,13 @@ BIRTHDAY BOY
 Happy Birthday Devian Fernando Hanser !!
 
 Ga kerasa ya, another year has passed.. Semoga segala keinginan depiann tercapai, apalagi yang kocak-kocak dan gak biasa HAHAHA. Gua tau hidup ga selalu ramah sama lu. Ada hari-hari di mana lu harus kuat sendiri, pretending everything is fine, even when it’s not. Tapiiii lu tetap jalan, tetap berusaha, and that already makes you strong. Gua selalu percaya kalau lu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa walauuu sambil misuh-misuh, trus telfon ngeluh+ngerengek sambil bilang "triaaaaaaa" haha.
-Wish u all the best ya depiannnn, semoga panjang umur dannnn sehat selalu, dikelilingi orang sayang sama lu dan yang lu sayangi, semoga makin banyak kebahagiaan yang didapetin, cita-cita dan harapan yang selama ini didambakan semoga dapat tercapi ya. Pokonya semoga di umur yang baru ini, hidup lu lebih tenang, lebih jelas arahnya, and you finally get what you deserve.
+Wish u all the best ya depiannnn, semoga panjang umur dannnn sehat selalu, dikelilingi orang yang sayang sama lu dan yang lu sayangi, semoga makin banyak kebahagiaan yang didapetin, cita-cita dan harapan yang selama ini didambakan semoga dapat tercapi ya. Pokonya semoga di umur yang baru ini, hidup lu lebih tenang, lebih jelas arahnya, and you finally get what you deserve.
 
 Kalau suatu hari lu capek, or feel lost, remember this: Lu ga sendirian.
 Gua mungkin ga selalu bisa bantu banyak, but I’ll always be here to listen.
 Tetap jadi depian yang apa adanya—strong, kind, and real.
 
-Terima kasih udah jadi bagian hidup gueee walau baru akrab beberapa bulan. Lu menjadi salah satu manusia yang menghidupkan kembali warna kehidupan gua yang sebelumnya pudar di 2021 hmmmm. Jangan jadi tua yang menyebalkan yaa hahaha, semoga diumur sekarang makin DEWASA dan SUKSES buat impian-impiannya.
+Terima kasih udah jadi bagian dari hidup gueee walau baru akrab beberapa bulan. Lu menjadi salah satu manusia yang menghidupkan kembali warna kehidupan gua yang sebelumnya pudar di 2021 hmmmm. Jangan jadi tua yang menyebalkan yaa hahaha, semoga diumur sekarang makin DEWASA dan SUKSES buat impian-impiannya.
 Once again, happy birthday, Om piannnnn 🎉🎂✨🍰🥳
 Semoga langkahmu ringan, hatimu hangat, and your life feels a little better every day.`;
     
